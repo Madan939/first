@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import './App.css';
 import { Footer, Header } from './component';
 import Allroute from './route/Allroute';
